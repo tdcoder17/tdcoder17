@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tdcoder17
+- 👋 Hi, I’m Theo
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning iOS Development
 - 💞️ I’m looking to collaborate on becoming a better developer
